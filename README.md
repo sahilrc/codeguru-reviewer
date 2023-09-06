@@ -1,6 +1,6 @@
 # Amazon CodeGuru Reviewer for GitHub Actions
 
-Amazon CodeGuru Reviewer finds issues in your Java and Python code and provides recommendations on how to remediate them. CodeGuru Reviewer identifies
+testAmazon CodeGuru Reviewer finds issues in your Java and Python code and provides recommendations on how to remediate them. CodeGuru Reviewer identifies
 
 1. Code quality issues, such as deviation from best practices with AWS APIs and SDKs, concurrency issues, resource leaks, and incorrect input validation
 2. [Security vulnerabilities](https://aws.amazon.com/blogs/devops/tightening-application-security-with-amazon-codeguru/), such as risks from the top [10 OWASP categories](https://owasp.org/www-project-top-ten/).
